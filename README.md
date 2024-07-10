@@ -1,5 +1,5 @@
 # youtube-extension
-
+A Chrome extension for skipping ads on YouTube.
 
 # Installation
 
