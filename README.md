@@ -13,4 +13,6 @@ A Browser extension for skipping ads on YouTube.
 
 ## Edge
 1. In development
+
+   
 Have fun! 📺
