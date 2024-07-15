@@ -9,10 +9,14 @@ A Browser extension for skipping ads on YouTube.
 3. Click the Load unpacked button and select the extension folder
 
 ### Firefox
-1. In development
+1. Open Firefox. Go to about:debugging#/runtime/this-firefox.
+2. Click "Load Temporary Add-on…".
+3. Select the manifest.json file from your firefox-extension directory.
 
 ### Edge
-1. In development
+1. Open Microsoft Edge and Go to "edge://extensions".
+2. Enable "Developer mode" using the toggle switch at the bottom left.
+3. Click "Load unpacked" and select the directory where the edge-extension is located.
 
    
 Have fun! 📺
