@@ -19,4 +19,5 @@ A Browser extension for skipping ads on YouTube.
 3. Click "Load unpacked" and select the directory where the extension is located.
 
    
-Have fun! 📺
+Have fun! 📺![image](https://github.com/user-attachments/assets/3582353e-8d5e-431e-83ac-33a99e2d46ea)
+
